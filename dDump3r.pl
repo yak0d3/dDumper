@@ -1,4 +1,4 @@
-#!/usr/bin/%perl%
+#!/usr/bin/perl
 
 use if $^O eq "MSWin32", Win32::Console::ANSI;
 use LWP::Simple;
