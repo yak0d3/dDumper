@@ -39,7 +39,7 @@
 ###### You can help improving dDump3r by suggesting exploits to add, functionalities or other changes.
 ###### Simply make a pull request or send me an email @ contact.raedyak@gmail.com
 # Report A Bug
-###### To report a bug just make a pull request or send me an email @ contact.raedyak@gmail.com
+###### To report a bug just submit a new issue or send me an email @ contact.raedyak@gmail.com
 
 
 
