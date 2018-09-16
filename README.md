@@ -13,7 +13,7 @@
   - ###### Add New Admin Exploit (OLD)
  
 # Usage
-    1) Type `perl dDumper.pl` in your cmd or console.
+    1) Type `perl dDump3r.pl` in your cmd or console.
     2) Type the path of your websites list.
     3) Type outputs' filename.
     4) Type `run` then press `Enter`.
