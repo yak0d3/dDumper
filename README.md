@@ -3,7 +3,7 @@
 ##### dDump3r is a Drupal Vulnerability Scanner & Auto Exploiter.
 ##### This tool can be used to massly scan drupal based websites.
 
-![dDump3r Screenshot #1](https://image.ibb.co/buGtxK/dd.png)
+![dDump3r Screenshot #1](https://image.ibb.co/g8uVcK/dump.png)
 
 
 # Exploits
