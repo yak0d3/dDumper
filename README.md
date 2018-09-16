@@ -27,7 +27,6 @@
 
 
 
-
 ## To-do List
 
  - ###### Add new exploits
@@ -49,6 +48,7 @@
 
 License
 ------
-##              MIT
+![dDump3r MIT License](https://image.ibb.co/bYoWHK/e.png)
+
 
 
