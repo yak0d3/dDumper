@@ -1,4 +1,4 @@
-# dDump3r
+# dDump3r ![Language](https://img.shields.io/badge/Language-Perl-blue.svg) ![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/yak0d3/dDumper.svg?colorB=brightgreen)
 
 ##### dDump3r is a Drupal Vulnerability Scanner & Auto Exploiter.
 ##### This tool can be used to massly scan drupal based websites.
